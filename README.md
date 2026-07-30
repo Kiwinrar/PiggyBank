@@ -1,7 +1,7 @@
 # PiggyBank
 A full-stack digital wallet and peer-to-peer payment platform featuring real-time transactions and seamless Razorpay API integration.
 
-# Digital Wallet & Payment Gateway (Paytm Clone)
+# Digital Wallet & Payment Gateway
 A full-stack payment application designed to simulate a digital wallet ecosystem. This project facilitates secure user authentication, wallet top-ups via the Razorpay API, and real-time peer-to-peer (P2P) fund transfers.
 
 The backend architecture was built with a strong focus on data integrity, implementing ACID properties to ensure that transaction ledgers remain accurate during simultaneous payment processing and fund routing.
